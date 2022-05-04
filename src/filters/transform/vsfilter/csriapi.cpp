@@ -170,7 +170,7 @@ static struct csri_info csri_vsfilter_info = {
 	"vsfilter_textsub_debug", // name
 	"2.39", // version (assumed version number, svn revision, patchlevel)
 #else
-	"vsfilter_textsub", // name
+	"xy_sub_filter", // name
 	"2.39", // version (assumed version number, svn revision, patchlevel)
 #endif
 	// 2.38-0611 is base svn 611
